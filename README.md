@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirulislamarafat
-- 👀 I’m interested in Social Media Marketing
-- 🌱 I’m currently learning Digital Marketing
-- 💞️ I’m looking to collaborate on Marketing Strategies
+- 👀 I’m interested in CyberSecurity & Ethical Hacking
+- 🌱 I’m currently learning Penetration Testing
+- 💞️ I’m looking to protect social media account and website
 - 📫 How to reach me- https://www.upwork.com/freelancers/~01f22f50f9191b166b
 
 <!---
